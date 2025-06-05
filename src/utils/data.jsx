@@ -106,8 +106,8 @@ export const Projects = [
   },
   {
     id: 8,
-      title: "LMS",
-    image: project_img_5,
+    title: "LMS",
+    image: Screenshot 2025-06-05 185129,
     tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
     demoLink: "https://frontend-lms-f775.vercel.app/",
     codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
