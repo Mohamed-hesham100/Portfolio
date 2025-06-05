@@ -46,6 +46,7 @@ import project_img_4 from "../assets/images/project4.png";
 import project_img_5 from "../assets/images/project5.png";
 import project_img_6 from "../assets/images/project6.png";
 import project_img_7 from "../assets/images/project7.png";
+import project_img_8 from "../assets/images/project8.png";
 
 export const Projects = [
   {
@@ -107,7 +108,7 @@ export const Projects = [
   {
     id: 8,
     title: "LMS",
-    image: Screenshot 2025-06-05 185129,
+    image: project_img_8,
     tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
     demoLink: "https://frontend-lms-f775.vercel.app/",
     codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
