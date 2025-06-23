@@ -47,6 +47,7 @@ import project_img_5 from "../assets/images/project5.png";
 import project_img_6 from "../assets/images/project6.png";
 import project_img_7 from "../assets/images/project7.png";
 import project_img_8 from "../assets/images/project8.png";
+import project_img_9 from "../assets/images/chat-app.png";
 
 export const Projects = [
   {
@@ -111,6 +112,14 @@ export const Projects = [
     image: project_img_8,
     tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
     demoLink: "https://frontend-lms-f775.vercel.app/",
+    codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
+  },
+  {
+    id: 9,
+    title: "Chat-App",
+    image: project_img_9,
+    tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
+    demoLink: "https://chat-app-hb1u.vercel.app/",
     codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
   },
 ];
