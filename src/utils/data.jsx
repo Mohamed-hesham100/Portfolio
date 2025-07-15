@@ -48,6 +48,7 @@ import project_img_6 from "../assets/images/project6.png";
 import project_img_7 from "../assets/images/project7.png";
 import project_img_8 from "../assets/images/project8.png";
 import project_img_9 from "../assets/images/chat-app.png";
+import project_img_10 from "../assets/images/project10.png";
 
 export const Projects = [
   {
@@ -112,7 +113,7 @@ export const Projects = [
     image: project_img_8,
     tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
     demoLink: "https://frontend-lms-f775.vercel.app/",
-    codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
+    codeLink: "https://github.com/Mohamed-hesham100/Chat-App-backend",
   },
   {
     id: 9,
@@ -121,6 +122,14 @@ export const Projects = [
     tech: ["React", "JavaScript", "Tailwind CSS", "Node.js", "Express.js"],
     demoLink: "https://chat-app-hb1u.vercel.app/",
     codeLink: "https://github.com/Mohamed-hesham100/frontend-LMS",
+  },
+  {
+    id: 10,
+    title: "Job-Portal",
+    image: project_img_10,
+    tech: ["React", "Typescript", "Tailwind CSS", "Node.js", "Express.js"],
+    demoLink: "https://job-portal-mocha-seven.vercel.app/",
+    codeLink: "https://github.com/Mohamed-hesham100/job-portal-backend",
   },
 ];
 
