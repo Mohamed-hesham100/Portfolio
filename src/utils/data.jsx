@@ -49,6 +49,9 @@ import project_img_7 from "../assets/images/project7.png";
 import project_img_8 from "../assets/images/project8.png";
 import project_img_9 from "../assets/images/chat-app.png";
 import project_img_10 from "../assets/images/project10.png";
+import project_img_11 from "../assets/images/project11.png";
+import project_img_12 from "../assets/images/project12.png";
+import project_img_13 from "../assets/images/project13.png";
 
 export const Projects = [
   {
@@ -131,6 +134,30 @@ export const Projects = [
     demoLink: "https://job-portal-mocha-seven.vercel.app/",
     codeLink: "https://github.com/Mohamed-hesham100/job-portal-backend",
   },
+  {
+  id: 11,
+  title: "Restaurant Landing Page",
+  image: project_img_11,
+  tech: ["React", "JavaScript", "Tailwind CSS"],
+  demoLink: "https://landing-page-restaurant-psi.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/landing-page-restaurant",
+},
+{
+  id: 12,
+  title: "Real Estate Landing Page",
+  image: project_img_12,
+  tech: ["React", "JavaScript", "Tailwind CSS"],
+  demoLink: "https://landing-page-realstate.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/landing-page-realstate",
+},
+{
+  id: 13,
+  title: "Clothing Brand Showcase Website",
+  image: project_img_13,
+  tech: ["React", "JavaScript", "Tailwind CSS"],
+  demoLink: "https://brand-landing-page-chi.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/brand-landing-page",
+},
 ];
 
 export const Menu_Links = [
