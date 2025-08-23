@@ -52,6 +52,7 @@ import project_img_10 from "../assets/images/project10.png";
 import project_img_11 from "../assets/images/project11.png";
 import project_img_12 from "../assets/images/project12.png";
 import project_img_13 from "../assets/images/project13.png";
+import project_img_14 from "../assets/images/project14.png";
 
 export const Projects = [
   {
@@ -158,6 +159,15 @@ export const Projects = [
   demoLink: "https://brand-landing-page-chi.vercel.app/", 
   codeLink: "https://github.com/Mohamed-hesham100/brand-landing-page",
 },
+{
+  id: 14,
+  title: "E-commerce Website",
+  image: project_img_14,
+  tech: ["React", "Typescript", "Tailwind CSS", "Node.js", "MongoDB"],
+  demoLink: "https://brand-ecommerce.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/ecommerce-store",
+  description: "متجر إلكتروني متكامل لعرض وبيع المنتجات مع عربة تسوق، تسجيل دخول المستخدمين، وطرق دفع متعددة."
+}
 ];
 
 export const Menu_Links = [
