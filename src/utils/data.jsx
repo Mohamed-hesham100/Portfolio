@@ -164,8 +164,8 @@ export const Projects = [
   title: "E-commerce Website",
   image: project_img_14,
   tech: ["React", "Typescript", "Tailwind CSS", "Node.js", "MongoDB"],
-  demoLink: "https://brand-ecommerce.vercel.app/", 
-  codeLink: "https://github.com/Mohamed-hesham100/ecommerce-store",
+  demoLink: "https://ecommerce-frontend-e6fp.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/Ecommerce-frontend",
   description: "متجر إلكتروني متكامل لعرض وبيع المنتجات مع عربة تسوق، تسجيل دخول المستخدمين، وطرق دفع متعددة."
 }
 ];
