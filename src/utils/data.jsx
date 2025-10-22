@@ -53,6 +53,11 @@ import project_img_11 from "../assets/images/project11.png";
 import project_img_12 from "../assets/images/project12.png";
 import project_img_13 from "../assets/images/project13.png";
 import project_img_14 from "../assets/images/project14.png";
+import project_img_15 from "../assets/images/project15.png";
+import project_img_16 from "../assets/images/project16.png";
+import project_img_17 from "../assets/images/project17.png";
+import project_img_18 from "../assets/images/project18.png";
+import project_img_19 from "../assets/images/project19.png";
 
 export const Projects = [
   {
@@ -167,7 +172,53 @@ export const Projects = [
   demoLink: "https://ecommerce-frontend-e6fp.vercel.app/", 
   codeLink: "https://github.com/Mohamed-hesham100/Ecommerce-frontend",
   description: "متجر إلكتروني متكامل لعرض وبيع المنتجات مع عربة تسوق، تسجيل دخول المستخدمين، وطرق دفع متعددة."
+},
+{
+  id: 15,
+  title: "Imtilak Real Estate Platform",
+  image: project_img_15,
+  tech: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
+  demoLink: "https://www.imtilak.net/", 
+  codeLink: "https://www.imtilak.net/",
+  description: "A real estate platform for buying, selling, and showcasing properties across Turkey. Includes advanced search, detailed property pages, and an interactive map for property locations."
+},
+{
+  id: 16,
+  title: "Al Alamein Hotels & Restaurants",
+  image: project_img_16,
+  tech: ["React", "Tailwind CSS"],
+  demoLink: "https://www.alalameinhotel.com/", 
+  codeLink: "https://www.alalameinhotel.com/",
+  description: "A complete booking website for hotels and restaurants in Al Alamein City. Features price and rating filters, detailed hotel pages, and an easy-to-use reservation system."
+},
+{
+  id: 17,
+  title: "Night Club Landing Page",
+  image: project_img_17,
+  tech: ["React", "Tailwind CSS"],
+  demoLink: "https://night-glup.vercel.app/", 
+  codeLink: "https://github.com/Mohamed-hesham100/night-glup",
+  description: "A modern and stylish landing page for a night club featuring event highlights, DJ schedule, and a responsive design with smooth animations using pure HTML, CSS, and JavaScript."
+},
+{
+  id: 18,
+  title: "Safark – Travel & Tourism Platform",
+  image: project_img_18,
+  tech: ["React", "Tailwind CSS", "JavaScript"],
+  demoLink: "https://www.safaraq.com/", 
+  codeLink: "https://www.safaraq.com/",
+  description: "A complete travel and tourism platform that allows users to book flights, hotels, resorts, daily tours, and car rentals. Features an intuitive interface, dynamic search filters, and detailed destination pages — all built using React, Tailwind CSS, and JavaScript."
+},
+{
+  id: 19,
+  title: "SHARAF – E-commerce Platform",
+  image: project_img_19,
+  tech: ["React", "Tailwind CSS", "Node.js", "MongoDB"],
+  demoLink: "https://egypt.sharafdg.com/", 
+  codeLink: "https://egypt.sharafdg.com/",
+  description: "A modern e-commerce platform for shopping a wide range of products with secure checkout, user authentication, and product management dashboard. Features include product filtering, a responsive cart system, and a clean UI built with React, Tailwind CSS, Node.js, and MongoDB."
 }
+
 ];
 
 export const Menu_Links = [
