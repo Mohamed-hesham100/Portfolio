@@ -56,7 +56,6 @@ import project_img_14 from "../assets/images/project14.png";
 import project_img_15 from "../assets/images/project15.png";
 import project_img_16 from "../assets/images/project16.png";
 import project_img_17 from "../assets/images/project17.png";
-import project_img_18 from "../assets/images/project18.png";
 import project_img_19 from "../assets/images/project19.png";
 
 export const Projects = [
@@ -199,15 +198,6 @@ export const Projects = [
   demoLink: "https://night-glup.vercel.app/", 
   codeLink: "https://github.com/Mohamed-hesham100/night-glup",
   description: "A modern and stylish landing page for a night club featuring event highlights, DJ schedule, and a responsive design with smooth animations using pure HTML, CSS, and JavaScript."
-},
-{
-  id: 18,
-  title: "Safark – Travel & Tourism Platform",
-  image: project_img_18,
-  tech: ["React", "Tailwind CSS", "JavaScript"],
-  demoLink: "https://www.safaraq.com/", 
-  codeLink: "https://www.safaraq.com/",
-  description: "A complete travel and tourism platform that allows users to book flights, hotels, resorts, daily tours, and car rentals. Features an intuitive interface, dynamic search filters, and detailed destination pages — all built using React, Tailwind CSS, and JavaScript."
 },
 {
   id: 19,
